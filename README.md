@@ -36,6 +36,7 @@ A significant part of the project involved developing and implementing a PID con
 
 This project was a significant milestone in our engineering journey, providing practical experience and a deeper understanding of drone technology. Special thanks to our professors and peers for their invaluable support and guidance throughout this project.
 
+![(5)](https://github.com/user-attachments/assets/d6ac42a8-e782-4076-bf78-58c263a9ed48)
 
 ## Summary
 
