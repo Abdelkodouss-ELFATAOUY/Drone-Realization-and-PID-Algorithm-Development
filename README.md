@@ -1,5 +1,6 @@
 # Drone-Realization-and-PID-Algorithm-Development
 Drone Realization and PID Algorithm Development using C++, Matlab/Simulink, RC protocol, and SPI.
+![1](https://github.com/user-attachments/assets/0a55843b-d0b9-43ce-949d-84aad69c3b02)
 
 ## Overview
 
