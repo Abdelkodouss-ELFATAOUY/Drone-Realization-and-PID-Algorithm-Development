@@ -1,5 +1,6 @@
 # Drone-Realization-and-PID-Algorithm-Development
 Drone Realization and PID Algorithm Development using C++, Matlab/Simulink, RC protocol, and SPI.
+
 ![1](https://github.com/user-attachments/assets/0a55843b-d0b9-43ce-949d-84aad69c3b02)
 
 ## Overview
@@ -34,6 +35,7 @@ Building on this, we developed a custom control board capable of reading sensor 
 A significant part of the project involved developing and implementing a PID controller. We coded the controller to achieve precise drone control and set up real-time parameter displays for metrics like pitch and roll, allowing us to monitor flight performance in real time. Extensive testing was carried out under safe conditions to ensure the system's reliability and safety, preventing injuries and avoiding system damage.
 
 This project was a significant milestone in our engineering journey, providing practical experience and a deeper understanding of drone technology. Special thanks to our professors and peers for their invaluable support and guidance throughout this project.
+
 
 ## Summary
 
